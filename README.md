@@ -14,3 +14,4 @@
 ![image alt](https://github.com/Shaileshssss/E-Waste-Application/blob/main/Screenshot_20250620_175118.jpg)
 ![image alt](https://github.com/Shaileshssss/E-Waste-Application/blob/main/Screenshot_20250620_175130.jpg)
 ![image alt](https://github.com/Shaileshssss/E-Waste-Application/blob/main/Screenshot_20250620_175136.jpg)
+ 
